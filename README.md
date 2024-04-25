@@ -7,7 +7,7 @@
 
 #### [书生·浦语大模型实战营](https://github.com/InternLM/tutorial)·大作业
 
-> GitHub仓库地址：
+> GitHub仓库地址：https://github.com/xxxing262/InternLM-history-assistant.git
 
 
 # 简介
@@ -26,7 +26,7 @@
 下载项目仓库。
 
 ```sh
-git clone https://github.com/BestAnHongjun/InternLM-History
+git clone https://github.com/xxxing262/InternLM-history-assistant.git
 
 ```
 
